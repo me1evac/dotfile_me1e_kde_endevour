@@ -6,4 +6,4 @@
 - Nvim 
 
 ## Config file
-
+- 'https://drive.google.com/drive/folders/10FBcjhiyzxBC3oNc3jtxAwPnmCcuonpO?hl=vi'
